@@ -4,8 +4,8 @@ Olá! Sou Cindy Damasceno, **jornalista multimídia** que está caminhando no **
 
 **Cindy (na primeira pessoa)**
 
-:school: Universidade Federal do Ceará (UFC)
+  :school: Universidade Federal do Ceará (UFC)
 
-🏖️ Fortaleza, Ceará
+  🏖️ Fortaleza, Ceará
 
-📍 São Paulo (SP)
+  📍 São Paulo (SP)
