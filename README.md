@@ -5,5 +5,6 @@ Olá! Sou Cindy Damasceno, **jornalista multimídia** que navega no **jornalismo
 **Cindy (na primeira pessoa)**
 
   - :school: Universidade Federal do Ceará (UFC)
+  - 👩‍🏫 Pós-graduação em Jornalismo de Dados e Automação (Insper)
   - 🏖️ Fortaleza, Ceará
   - 📍 São Paulo (SP)
